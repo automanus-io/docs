@@ -76,11 +76,12 @@ curl -X POST https://automanus.io/api/v1/public/agents \
 | **Starter** | 1,000 | Priority support, Analytics |
 | **Pro** | 5,000 | Custom branding, API access, Advanced analytics |
 
-## Support
+## Community
 
-- **Documentation**: [automanus.io/docs](https://automanus.io/docs)
-- **Email**: hello@automanus.io
-- **GitHub Issues**: [Report a bug](https://github.com/automanus-io/docs/issues)
+- [📺 Watch Demo](https://www.youtube.com/watch?v=4Mdzehq4ghg&list=PLE9hy4A7ZTmpGq7GHf5tgGFWh2277AeDR) - See AutoManus in action
+- [Discord](https://discord.com/invite/tGsJ2nJH69) - Get help and share feedback
+- [GitHub Issues](https://github.com/automanus-io/docs/issues) - Report bugs
+- Email: hello@automanus.io
 
 ## License
 
