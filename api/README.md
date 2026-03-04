@@ -21,7 +21,7 @@ For authenticated requests, include your API key in the Authorization header:
 Authorization: Bearer ak_your_api_key_here
 ```
 
-Get your API key from [automanus.io/dashboard](https://automanus.io/dashboard) → Settings → API Keys.
+Get your API key from [automanus.io/dashboard/settings/api](https://automanus.io/dashboard/settings/api).
 
 ### Email-Only (No API Key)
 
